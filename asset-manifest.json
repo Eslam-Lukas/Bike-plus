@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/bike-plus/static/css/main.33a98ef5.css",
-    "main.js": "/bike-plus/static/js/main.0f7e9bab.js",
+    "main.js": "/bike-plus/static/js/main.d3621c84.js",
     "static/js/787.9b2ed128.chunk.js": "/bike-plus/static/js/787.9b2ed128.chunk.js",
     "static/media/qr-code (3).png": "/bike-plus/static/media/qr-code (3).4250f717db6c0d206c8f.png",
     "static/media/qr-code.png": "/bike-plus/static/media/qr-code.8b87196a05f244f01300.png",
     "static/media/IMG-20230602-WA0023.jpg": "/bike-plus/static/media/IMG-20230602-WA0023.9fbacbd140ba746306b2.jpg",
     "index.html": "/bike-plus/index.html",
     "main.33a98ef5.css.map": "/bike-plus/static/css/main.33a98ef5.css.map",
-    "main.0f7e9bab.js.map": "/bike-plus/static/js/main.0f7e9bab.js.map",
+    "main.d3621c84.js.map": "/bike-plus/static/js/main.d3621c84.js.map",
     "787.9b2ed128.chunk.js.map": "/bike-plus/static/js/787.9b2ed128.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33a98ef5.css",
-    "static/js/main.0f7e9bab.js"
+    "static/js/main.d3621c84.js"
   ]
 }
